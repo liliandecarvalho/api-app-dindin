@@ -1,5 +1,6 @@
-# api-app-dindin
+# API App DinDin
 
+A API DinDin é uma API para app de controle de finanças pessoais. Ela foi desenvolvida como projeto desafio de back-end do módulo III, no curso de Desenvolvimento de Software na Cubos Academy. Durante esse módulo aprendemos e colocamos em práticas diárias, os seguintes conceitos:
 
 - Banco de Dados
 - Consultas SQL
